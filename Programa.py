@@ -1,10 +1,3 @@
-"""
-Mini-Editor Gráfico Interactivo
-Autor: Sistema de Desarrollo
-Versión: 1.1
-Descripción: Editor gráfico con transformaciones geométricas y vista previa en tiempo real
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, simpledialog
 import json
